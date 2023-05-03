@@ -1,5 +1,9 @@
-## Getting Started
 
+## Note
+Get the apikey from the [website](https://www.themoviedb.org/) create .env file with `API_KEY=<your_api_key>`
+I'm still developing it , so it has a lot of bugs and unformatted code.
+
+## Getting Started
 First, run the development server:
 
 ```bash
@@ -10,9 +14,6 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Note
-
-I'm still developing it , so it has a lot of bugs and unformatted code.
 
 ## Images
 
